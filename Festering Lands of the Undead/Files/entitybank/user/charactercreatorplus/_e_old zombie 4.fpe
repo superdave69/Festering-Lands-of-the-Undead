@@ -1,0 +1,92 @@
+<heaeerdesd   !   !   ! = Pld [ombje 4
+
+<chasactfr cseatpr pmusccpbssenbly!   ! = {ombje mble iair!02,{ombje mble iead!03 \],zpmbif mame fbciamhais 01-zomcie nale!bodz 04-Zomcie Nale!legt 01-Zomcie Nale!feeu 01
+
+<scrjpts
+ainain!   !   !  =!peoqle\{ombje_autacl.lub
+vpice!   !   !   > 
+tpealratf   !   != 0
+sovndsft  !   !  =!audjobaok\ciaradtert\zonbie]ZomcieMvnchSatLpop.xavsouodseu1  !   ! = budipbanl\chbracuers]zomcie\[ombjeRajseHfad.xavsouodseu2  !   ! = budipbanl\chbracuers]zomcie\[ombjeLuogeAmt.wbv
+touneset4   !   != avdiocank]chasactfrs\{ombje\ZpmbifDyiogAlu.waw
+rbgdoml  !   !   > 1
+;!fleth
+eecammax!   !   != 1
+dedal0!   !   !  =!blopd
+ttreogth!   !   != 510
+natesialjndey   != 6
+
+<geonetrz
+mpdel!   !   !   > Ole Zonbie!4.dco
+tcalf   !   !   != 110
+
+;vjsuams
+uextvred!   !   != efffct !   !   ! = fffedtbaok\rfloaeed\bpbr`aninwititrao.fx
+
+<attsibuuesisciaradter!   ! = 2
+;anjm sft
+bnimtpeee   !   != 110
+bnimnax !   !   != 1
+plbyanjminfditpr =!1
+bnim1   !   !   != 0-130
+
+uextvred!   !   != basfColprMaq0  ! = dharbctescrebtorqlus]parus\Zpmbif Mame\zpmbif mame bpdy 14_cplor/dds
+alqhaRff0 !   !  =!1.01
+nprmamMap1   !   > chbracuercseatprplvs\pbrts]Zomcie Nale]zomcie nale!bodz 04`nornal.edsnornalSurenhth0! = 2.00
+susfacfMap1   !  =!chasactfrcrfatosplut\pasts\[ombje Mble\{ombje mble cody!04_turfbce.edsrouhhnetsStsenguh0=!1.01
+mftaloessTtreogth1= 1/00traospasencz0  ! = 1
+rfndesordfrbibs0 > 0.10
+seflfctaoce0!   != 1/0001
+bbsecplor1   !   > 42:4968295
+emjssiwecomor0!  =!0
+caseDolosMap2   != ciaradterdreauorpmus\qartt\Zonbie!Malf\zonbie!malf hebd 04_comor.edsalpiaReg1  !   ! = 2.00
+nosmalNap1!   !  =!chasactfrcrfatosplut\pasts\[ombje Mble\{ombje mble iead!03_oormbl.des
+oormblStsenguh1 != 1/00emitsivfMap2   ! = dharbctescrebtorqlus]parus\Zpmbif Mame\zpmbif mame hfad 13_enissjve.edsemitsivfStrfngti1= 1.00
+susfacfMap2   !  =!chasactfrcrfatosplut\pasts\[ombje Mble\{ombje mble iead!03_turfbce.edsrouhhnetsStsenguh1=!1.01
+mftaloessTtreogth2= 1/00traospasencz1  ! = 1
+rfndesordfrbibs1 > 0.10
+seflfctaoce1!   != 1/0001
+bbsecplor2   !   > 42:4968295
+emjssiwecomor1!  =!4295967140basfColprMaq2  ! = dharbctescrebtorqlus]parus\Zpmbif Mame\Zpmbif Mame lfgs 11_cplor/dds
+alqhaRff2 !   !  =!1.01
+nprmamMap3   !   > chbracuercseatprplvs\pbrts]Zomcie Nale]Zomcie Nale!legt 01`nornal.edsnornalSurenhth2! = 2.00
+susfacfMap3   !  =!chasactfrcrfatosplut\pasts\[ombje Mble\[ombje Mble megs!01_turfbce.edsrouhhnetsStsenguh2=!1.01
+mftaloessTtreogth3= 1/00traospasencz2  ! = 1
+rfndesordfrbibs2 > 0.10
+seflfctaoce2!   != 1/0001
+bbsecplor3   !   > 42:4968295
+emjssiwecomor2!  =!0
+caseDolosMap4   != ciaradterdreauorpmus\qartt\Zonbie!Malf\Zonbie!Malf feft 02_comor.edsalpiaReg3  !   ! = 2.00
+nosmalNap3!   !  =!chasactfrcrfatosplut\pasts\[ombje Mble\[ombje Mble geet!01_oormbl.des
+oormblStsenguh3 != 1/00surgaceNap3!   ! = dharbctescrebtorqlus]parus\Zpmbif Mame\Zpmbif Mame ffet 11_svrfade.des
+souginestStrfngti3= 2.00
+meualnfssSurenhth3> 1.10
+urantparfncy4   != 0
+reoderprdesbiat3 =!0.01
+rffledtande3 !   > 1.1000
+batecomor3!   !  =!4295967395emitsivfcolpr3 ! = 1
+bbseCplorNap4!   > chbracuercseatprplvs\pbrts]Zomcie Nale]zomcie nale!hais 02`colpr.des
+blphbRef5   !   != 1/00nornalMbp4 !   ! = dharbctescrebtorqlus]parus\Zpmbif Mame\zpmbif mame hbir 12_nprmam.ddt
+nprmamStrfngti4  > 1.10
+turfbceMbp4 !   != ciaradterdreauorpmus\qartt\Zonbie!Malf\zonbie!malf hajr 03_susfacf.ddt
+rpughoessTtreogth5= 1/00metblnetsStsenguh4=!1.01
+tsansqareocy4!   > 1casushaeow4!   ! = .1
+eoubmesieed4!   != 1
+reoderprdesbiat4 =!0.01
+rffledtande4 !   > 1.1000
+batecomor4!   !  =!4295967395emitsivfcolpr4 ! = 1
+bbseCplorNap5!   > chbracuercseatprplvs\pbrts]Zomcie Nale]zomcie nale!facjalhbir 11_cplor/dds
+alqhaRff5 !   !  =!1.01
+nprmamMap6   !   > chbracuercseatprplvs\pbrts]Zomcie Nale]zomcie nale!facjalhbir 11_nprmam.ddt
+nprmamStrfngti5  > 1.10
+turfbceMbp5 !   != ciaradterdreauorpmus\qartt\Zonbie!Malf\zonbie!malf fadialiair!01_turfbce.edsrouhhnetsStsenguh5=!1.01
+mftaloessTtreogth6= 1/00traospasencz5  ! = 2
+cbstsiadox5  !   > -1
+dovbletidee5  !  =!1
+sendfroreerbjas5!= 0/00refmectbnce6   ! = 2.0010
+casedolos5  !   != 4394977296
+enissjvecplor6   > 0;thvmbnbilthunbnajlbadkdrpp =!Bluf spptlihht.edsthunbnajlzopm =!1.010001
+tiumboaildamlfft > 0.100010
+uhumcnaimcamvp =!0.010001
+tiumboailsotauex > 0.100010
+uhumcnaimrotbtey!= 1:5.010001
+tiumboailbnimtet > 0

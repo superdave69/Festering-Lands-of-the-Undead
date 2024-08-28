@@ -1,0 +1,15 @@
+title	profile	image	description	cost	value	container	ingredients	style
+0	None	thumbbank\Fantasy Lake Town Booster Pack_Buildings_Building Kit_Stairs_WVP - Stairs - 4512x288.png	 	10	5	none	none	weapon=0
+Magnum Pistol	Max Collection\Weapons\Magnum Pistol.fpe	gamecore\guns\enhanced\MK19T\item.png	 	10	5	none	none	weapon=enhanced\MK19T
+CS_Street_Straight_2X	Cyberpunk Streets Booster Pack\Streets and Sidewalks\Streets\CS_Street_Straight_2X.fpe	gamecore\guns\fantasy\Longsword_New\item.png	 	10	5	none	none	weapon=fantasy\Longsword_New
+pipe	Wasteland Weapons Booster Pack\weapons\clean4k\pipe clean 4k.fpe	thumbbank\Wasteland Weapons Booster Pack_weapons_clean4k_pipe clean 4k512x288.png	 	10	5	none	none	weapon=wasteland\weapons\clean4k\pipe
+FlashLight Black	Max Collection\Tools\FlashLight Black.fpe	thumbbank\Max Collection_Tools_FlashLight Black512x288.png	 	10	5	none	none	none
+MFD_Health	Offworld Station Booster Pack\Pickups\MFD_Health.fpe	thumbbank\Offworld Station Booster Pack_Pickups_MFD_Health512x288.png	MFG_Health	10	5	none	none	none
+Crafting Kit	Max Collection\Misc\testmodels\crafting_kit.fpe	thumbbank\Max Collection_Misc_testmodels_crafting_kit512x288.png	Crafting Kit	10	5	none	none	none
+Rags	User\Rags.fpe	thumbbank\User_Rags512x288.png	Rags	10	5	none	none	none
+Scissors	Booster Pack\Camping Pack\Scissors.fpe	thumbbank\Booster Pack_Camping Pack_Scissors512x288.png	Scissors	10	5	none	none	none
+Rags Sowing Kit	Booster Pack\Camping Pack\Book-Bag1.fpe	thumbbank\Booster Pack_Camping Pack_Book-Bag1512x288.png	Rags	10	5	none	Rags,Bleach,Water Bottle,Scissors	recipe
+Water Bottle	User\Water Bottle.fpe	thumbbank\User_Water Bottle512x288.png	Water Bottle	10	5	none	none	none
+Bandage	User\Bandage.fpe	thumbbank\User_Bandage512x288.png	Bandage	10	5	none	none	none
+Bleach	Industrial Collection\Barrels\Sky Blue Plastic Canister.fpe	thumbbank\Industrial Collection_Barrels_Sky Blue Plastic Canister512x288.png	Bleach	10	5	none	none	none
+Bandage Sowing Kit	Booster Pack\Camping Pack\Book-Bag2.fpe	thumbbank\Booster Pack_Camping Pack_Book-Bag2512x288.png	Badage	10	5	none	Rags,Rags,Scissors	recipe
